@@ -11,6 +11,7 @@ first install the requirements:
 pip install -r requirements.txt
 ```
 for training, we should extract some features from audio. for this purpose, we used [egemaps version 2](https://audeering.github.io/opensmile-python/api/opensmile.FeatureSet.html#egemapsv02).
+
 then you should execute training of neural network with audio data
 ```bash
 python src/codes/trainData.py
