@@ -2,7 +2,7 @@ Hello
 
 This project is about audio processing.
 
-Dataset is from sharif speech dataset.
+Dataset comes from Sharif speech dataset.
 
 You can run the demo with these 3 steps:
 
